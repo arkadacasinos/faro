@@ -20,14 +20,14 @@ export const metadata: Metadata = {
   title: randomTitle.substring(0, 80),
   description: randomDescription.substring(0, 200),
   generator: 'v0.app',
-  metadataBase: new URL('https://farocasino.vercel.app'),
+  metadataBase: new URL('https://farocasino2.vercel.app'),
   alternates: {
-    canonical: 'https://farocasino.vercel.app',
+    canonical: 'https://farocasino2.vercel.app',
   },
   openGraph: {
     title: 'Faro Casino – официальный игровой портал',
     description: 'Faro Casino онлайн: зеркало, официальный сайт и полный выбор игр. Играйте безопасно!',
-    url: 'https://farocasino.vercel.app',
+    url: 'https://farocasino2.vercel.app',
     type: 'website',
     locale: 'ru_RU',
   },
@@ -87,7 +87,7 @@ export default function RootLayout({
         <meta name="language" content="Russian" />
         <meta name="revisit-after" content="7 days" />
         <meta name="author" content="Faro Casino" />
-        <link rel="canonical" href="https://farocasino.vercel.app" />
+        <link rel="canonical" href="https://farocasino2.vercel.app" />
         <script
   dangerouslySetInnerHTML={{
     __html: `
