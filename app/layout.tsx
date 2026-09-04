@@ -81,7 +81,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-fcx-white">
       <head>
-        <meta name="yandex-verification" content="39da003dadb562ad" />
+        
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes" />
         <meta name="language" content="Russian" />
