@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   robots: {
-    index: true,
+    noindex: true,
     follow: true,
     googleBot: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1',
   },
